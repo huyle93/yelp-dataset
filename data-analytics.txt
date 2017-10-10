@@ -1,0 +1,4 @@
+- Can you identify any relationships within the data?
+- Can you find something which might be interesting to others?
+- Can you think of and answer some questions which the data can help answer?
+- Can you identify any issues with the data?
